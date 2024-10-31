@@ -80,7 +80,7 @@
        inkscape:label="small bar" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#404040;stroke-width:0.343958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#dcdcdc;stroke-width:0.343958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4061"
        sodipodi:cx="96.325348"
        sodipodi:cy="110.12027"
@@ -102,7 +102,7 @@
        sodipodi:cy="110.12027"
        sodipodi:cx="96.325348"
        id="path4063"
-       style="fill:none;stroke:#404040;stroke-width:0.343958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#dcdcdc;stroke-width:0.343958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="arc"
        sodipodi:arc-type="arc"
        inkscape:label="large bar" />
