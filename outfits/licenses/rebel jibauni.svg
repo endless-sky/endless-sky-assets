@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="360"
+   height="240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="rebel jibauni.svg"
+   inkscape:export-filename="rebel jibauni license.png"
+   inkscape:export-xdpi="96.436363"
+   inkscape:export-ydpi="96.436363"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 120 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="360 : 120 : 1"
+       inkscape:persp3d-origin="180 : 80 : 1"
+       id="perspective5" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Brilliance"
+       id="filter241">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix239" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix327" />
+      <feColorMatrix
+         id="feColorMatrix329"
+         values="1.34 -0.61 -0.61 0 0.4 -0.61 1.34 -0.61 0 0.4 -0.61 -0.61 1.34 0 0.4 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0305556"
+     inkscape:cx="180"
+     inkscape:cy="134.96899"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2982"
+       empspacing="5"
+       visible="false"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-812.36217)">
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1;stroke:none"
+       id="rect2984"
+       width="340"
+       height="220"
+       x="10"
+       y="10"
+       rx="5"
+       ry="5"
+       transform="translate(0,812.36217)" />
+    <path
+       style="fill:#f7ce36;fill-opacity:1;stroke:none"
+       d="m 60,10 75,25 215,0 0,-20 c 0,-3 -2,-5 -5,-5 z"
+       id="path3760"
+       inkscape:connector-curvature="0"
+       transform="translate(0,812.36217)"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#bcc922;fill-opacity:1;stroke:none"
+       d="m 10,30 160,0 30,-20 -185,0 c -3,0 -5,2 -5,5 z"
+       id="path3754"
+       inkscape:connector-curvature="0"
+       transform="translate(0,812.36217)"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="15"
+       y="838.36218"
+       id="text3756"><tspan
+         sodipodi:role="line"
+         id="tspan3758"
+         x="15"
+         y="838.36218"
+         style="font-size:14px;line-height:1.67;letter-spacing:0.5px;fill:#ffffff;fill-opacity:1">Zaeim Mutamarid</tspan></text>
+    <text
+       id="text3781"
+       y="838.36218"
+       x="344.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan192"
+         x="344.5"
+         y="838.36218">Mujirim Rukhsa</tspan></text>
+    <ellipse
+       style="fill:#aa4aa6;fill-opacity:1"
+       id="path2"
+       cx="108.57143"
+       cy="896.29071"
+       rx="92.85714"
+       ry="19.642857" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="61.32143"
+       y="900.26843"
+       id="text3793"><tspan
+         sodipodi:role="line"
+         id="tspan3795"
+         x="61.57143"
+         y="900.26843"
+         style="font-size:12px;line-height:1.67;text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1">MAL-COZ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="139.17857"
+       y="900.26843"
+       id="text3801"><tspan
+         sodipodi:role="line"
+         id="tspan3803"
+         x="139.42857"
+         y="900.26843"
+         style="font-size:12px;line-height:1.67;text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1">REYNOLDAT</tspan></text>
+    <circle
+       id="path3917"
+       style="fill:#ff7722;fill-opacity:1;stroke:none;stroke-width:1.07331"
+       cx="48"
+       cy="1010.3622"
+       r="12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2277cb;fill-opacity:1;stroke:none"
+       x="48"
+       y="1029.3622"
+       id="text3923"><tspan
+         style="font-size:6px;line-height:120%;fill:#2277cb;fill-opacity:1"
+         id="tspan3927"
+         sodipodi:role="line"
+         x="48"
+         y="1029.3622">MUQATILIN JAYIID</tspan></text>
+    <rect
+       style="fill:#bcc922"
+       id="rect1"
+       width="132.98091"
+       height="64.560654"
+       x="103.15669"
+       y="943.58875"
+       rx="10"
+       ry="10" />
+    <ellipse
+       style="fill:#bc1622;fill-opacity:1"
+       id="path1"
+       cx="283.33005"
+       cy="966.22003"
+       rx="38.420605"
+       ry="66.841324" />
+    <rect
+       style="fill:#bc7222;fill-opacity:1"
+       id="rect2"
+       width="4.9122233"
+       height="69.122002"
+       x="212.27823"
+       y="869.5545"
+       rx="5"
+       ry="5" />
+    <path
+       sodipodi:type="star"
+       style="fill:#5ad622;fill-opacity:1"
+       id="path3"
+       inkscape:flatsided="false"
+       sodipodi:sides="4"
+       sodipodi:cx="303.85611"
+       sodipodi:cy="63.157158"
+       sodipodi:r1="21.414761"
+       sodipodi:r2="12.570463"
+       sodipodi:arg1="0.96007036"
+       sodipodi:arg2="1.7454685"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 316.13667,80.700813 -14.46512,-5.16447 -15.3591,-0.09863 5.16447,-14.465121 0.0986,-15.359094 14.46512,5.16447 15.3591,0.09863 -5.16447,14.465121 z"
+       transform="translate(0,812.36217)" />
+  </g>
+</svg>
