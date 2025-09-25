@@ -6,7 +6,7 @@ The official asset directory for sprites in [Endless Sky](https://github.com/end
 
 1. Use Inkscape to update the .svg
 2. Export to .png, be sure to configure DPI and anti-aliasing for export
-3. Using the appropriate .xcf file,  apply shading or other graphical effects
+3. Using the appropriate .xcf file, apply shading or other graphical effects
 4. Export to .png
    - Once @2x (192 DPI) for the high dpi plugin
    - and once at original size (96 DPI) for the standard game resolution
