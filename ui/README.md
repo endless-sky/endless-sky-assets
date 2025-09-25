@@ -1,8 +1,4 @@
-# endless-sky-assets
-
-The official asset directory for sprites in [Endless Sky](https://github.com/endless-sky/endless-sky).
-
-## Process for updating UI components:
+# Process for updating UI components:
 
 1. Use Inkscape to update the .svg
 2. Export to .png, be sure to configure DPI and anti-aliasing for export
