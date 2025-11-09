@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="960"
+   height="240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="disruptor.svg"
+   inkscape:export-filename="/home/michael/assets/projectiles/disruptor.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="607.88653"
+     inkscape:cy="-56.46623"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-812.3622)">
+    <path
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,20 c 114.03919,-10.7058584 207.18477,-4.059789 310,0 102.81523,4.059789 177.20046,4.807645 290,0 112.79954,-4.807645 365,10 365,10"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1012.3622)"
+       sodipodi:nodetypes="czzc" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3757"
+       d="m 0,992.3622 c 109.95511,-5.4877 202.87121,0.5019 310,0 107.12879,-0.5019 153.94089,2.6931 290,0 136.05911,-2.6931 368.39892,5.309 365,5"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,952.3622 c 119.75624,1.6404 123.28139,-6.4972 236.25886,-3.0305 112.97748,3.4668 277.34975,8.3158 416.77415,1.0102 139.4244,-7.30566 316.40879,2.1959 311.96699,2.0203"
+       id="path3759"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3761"
+       d="m 0,912.3622 c 119.75624,0.50011 218.74081,-9.17271 331.71828,0.50503 112.97747,9.67777 224.86292,0.22263 321.31473,-2.52533 96.45181,-2.74796 265.50786,6.5591 306.96699,1.51526"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,872.3622 c 122.30962,12.67335 220.45594,-9.84229 313.03046,-4.54573 92.57452,5.29655 223.66645,13.36603 316.76904,3.53558 C 722.90209,861.5216 828.14875,883.97249 965,867.3622"
+       id="path3763"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3765"
+       d="m 0,832.3622 c 135.38353,4.35359 145.71036,-5.99609 232.72333,-2.52542 87.01298,3.47066 174.72722,10.62689 283.93908,2.52542 109.21187,-8.10146 313.62939,3.31678 448.33759,-5"
+       style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:1.8;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

@@ -1,0 +1,3249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="760"
+   height="500"
+   id="svg4844"
+   version="1.1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="keys panel.svg"
+   inkscape:export-filename="/home/michael/code/endless-sky/images/ui/keys panel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4846">
+    <linearGradient
+       id="linearGradient3783">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop3785" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop3787" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4702">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4704" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4706" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4709">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4711" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4713" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4716">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4718" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4720" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4723">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4725" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4727" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4730">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4732" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4734" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4737">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4739" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4741" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4744">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4746" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4748" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4751">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4753" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4755" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4758">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4760" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4762" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4765">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4767" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4769" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4772">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4774" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4776" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4779">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4781" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4783" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4786">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4788" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4790" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4793">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4795" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4797" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4800">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4802" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4804" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4807">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4809" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4811" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783"
+       id="linearGradient4165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.14999991,-0.52000001,0,516.02834,1010.8622)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient4814">
+      <stop
+         style="stop-color:#202020;stop-opacity:1;"
+         offset="0"
+         id="stop4816" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="1"
+         id="stop4818" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient5149"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.14999991,-0.48000001,0,936.33385,1010.8622)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient3783-6">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3785-2" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3787-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient5152"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.60000001,0,0,-0.19999987,706,1190.8346)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient5488">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5490" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5492" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient5155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.14999991,0.48000001,0,343.66615,1043.8622)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient5495">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5497" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5499" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient5158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.60000001,0,0,0.19999987,574,863.88979)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient5502">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5504" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5506" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5509">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5511" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5513" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5516">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5518" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5520" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5523">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5525" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5527" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5530">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5532" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5534" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5537">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5539" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5541" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5544">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5546" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5548" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5551">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5553" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5555" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5558">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5560" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5562" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5565">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5567" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5569" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5572">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5574" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5576" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5579">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5581" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5583" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5586">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5588" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5590" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5593">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5595" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5597" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5600">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop5602" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop5604" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4081"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1.3999994,0.88,0,-143.27872,926.36215)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4085"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.15,0,0,-0.19999987,511.5,1060.8346)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4089"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15,0,0,-0.19999987,478.5,780.8346)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.64999958,0.88,0,-173.27872,848.86215)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.35000002,0.88,0,-173.27872,838.86217)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4101"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.39999982,0.88,0,-173.27872,628.36219)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2500001,0,0,0.99999987,-282.50001,-159.99991)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4300"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.64999987,1.68,0,-1267.1685,718.86216)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4302"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.72499986,-0.88,0,633.2787,705.11213)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4304"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.72499959,0.88,0,-673.27872,1009.6123)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4306"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.25,0,0,0.74999998,-7.5,445.59056)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4308"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.57499988,-0.88,0,383.27872,881.61219)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4310"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.97499946,0.88,0,-923.27874,897.11217)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.55000009,-0.88,0,383.27872,576.86218)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4361"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2500001,0,0,0.99999987,-282.50001,-159.99991)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4363"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.64999987,1.68,0,-1267.1685,718.86216)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4365"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.72499986,-0.88,0,633.2787,705.11213)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.72499959,0.88,0,-673.27872,1009.6123)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4369"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.25,0,0,0.74999998,-7.5,445.59056)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4371"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.57499988,-0.88,0,383.27872,881.61219)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4373"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.97499946,0.88,0,-923.27874,897.11217)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6"
+       id="linearGradient4375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.55000009,-0.88,0,383.27872,576.86218)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6-6"
+       id="linearGradient4239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8,0,0,0.74999998,-391.74854,429.24968)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient3783-6-6">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3785-2-7" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3787-9-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6-6"
+       id="linearGradient4196"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.8,0,0,0.74999998,-215.74853,539.24968)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient3408">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3410" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3412" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6-6"
+       id="linearGradient4192"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.54999982,-0.88,0,429.53019,1101.5213)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient3415">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3417" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3419" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3783-6-6"
+       id="linearGradient4188"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.54999982,-0.88,0,269.53019,980.52132)"
+       x1="9.5"
+       y1="742.36218"
+       x2="210.5"
+       y2="742.36218" />
+    <linearGradient
+       id="linearGradient3422">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3424" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3426" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3429">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3431" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3433" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3436">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop3438" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop3440" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="575.7617"
+     inkscape:cy="201.17188"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4103"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5047"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <g
+       id="g3674"
+       transform="translate(403.74853,-113.659)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4309"
+         d="m -383.74853,1079.0213 -1,0 -1,-1 0,-19 -2.00001,-2 0,-11 2.00001,-2 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4311"
+         d="m -383.74853,1082.0213 -2,0 -3.00001,-3 0,-19 -2,-2 0,-13 4,-4 3.00001,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4313"
+         d="m -383.74853,1038.0213 -8.00001,0 -3,-3 0,-4 6,-6 5.00001,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4315"
+         d="m -383.74853,1035.0213 -7.00001,0 -1,-1 0,-2 4,-4 4.00001,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4317"
+         d="m -383.74853,996.02132 -1,0 -1,-1 0,-13 2,-2 4,0 3,3 15,0 1,1 7,0 1,1 0,1"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4319"
+         d="m -383.74853,999.02132 -2,0 -3.00001,-3 0,-15 4.00001,-4 6,0 3,3 15,0 1,1 7,0 2,2 15,0 1,1 0,2"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4158"
+         d="m -213.74853,976.02132 -3,0 -3,3 0,17 -1,1 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4160"
+         d="m -213.74853,979.02132 -2,0 -1,1 0,17 -3,2.99998 -4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4162"
+         d="m -223.74853,1003.0213 6,0 1,-1 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4164"
+         d="m -223.74853,1006.0213 7,0 1,-1 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4166"
+         d="m -223.74853,1021.0213 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4168"
+         d="m -223.74853,1024.0213 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4170"
+         d="m -223.74853,1027.0213 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4172"
+         d="m -223.74853,1030.0213 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4174"
+         d="m -223.74853,1033.0213 6,0 2,2 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4176"
+         d="m -223.74853,1036.0213 5,0 2,2 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4180"
+         d="m -223.74853,1039.0213 4,0 2,2 4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4182"
+         d="m -223.74853,1053.0213 1,0 1,1 0,15 -1,1 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4184"
+         d="m -223.74853,1050.0213 2,0 3,3 0,17 -3,3 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4196-0"
+         d="m -213.74853,942.02132 -9,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4198-5"
+         d="m -213.74853,939.02132 -16,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4200-2"
+         d="m -213.74853,936.02132 -5,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4202-1"
+         d="m -213.74853,933.02132 -11,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4204-5"
+         d="m -213.74853,930.02132 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4206-1"
+         d="m -213.74853,927.02132 c -1,0 -2,0 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4208-5"
+         d="m -213.74853,924.02132 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4210-0"
+         d="m -213.74853,921.02132 -6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4212-7"
+         d="m -213.74853,918.02132 -19,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4214-3"
+         d="m -213.74853,915.02132 -13,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4216-6"
+         d="m -213.74853,912.02132 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4218-7"
+         d="m -213.74853,909.02132 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4220-4"
+         d="m -213.74853,906.02132 -7,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4222-2"
+         d="m -213.74853,903.02132 -11,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4224-5"
+         d="m -213.74853,900.02132 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4226-1"
+         d="m -213.74853,897.02132 -7,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4228-7"
+         d="m -213.74853,894.02132 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4230-7"
+         d="m -213.74853,891.02132 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4232-0"
+         d="m -213.74853,888.02132 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4234-4"
+         d="m -213.74853,945.02132 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4236-5"
+         d="m -213.74853,948.02132 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         transform="translate(-553.74853,92.65914)"
+         id="g4178-2">
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4120-1"
+           width="5"
+           height="5"
+           x="190"
+           y="1013.3622" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4124-1"
+           width="5"
+           height="5"
+           x="210"
+           y="1013.3622" />
+        <rect
+           y="1013.3622"
+           x="220"
+           height="5"
+           width="5"
+           id="rect4126-7"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4130-4"
+           width="5"
+           height="5"
+           x="200"
+           y="1023.3622" />
+        <rect
+           y="1023.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4132-2"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4134-6"
+           width="5"
+           height="5"
+           x="220"
+           y="1023.3622" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4136-2"
+           width="5"
+           height="5"
+           x="190"
+           y="1033.3622" />
+        <rect
+           y="1033.3622"
+           x="200"
+           height="5"
+           width="5"
+           id="rect4138-9"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="1043.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4148-3"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4150-2"
+           width="5"
+           height="5"
+           x="220"
+           y="1043.3622" />
+      </g>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#202020;fill-opacity:1;stroke:none"
+         id="rect5074-8"
+         width="160"
+         height="110"
+         x="-383.74854"
+         y="986.0213" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4188);stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -383.74853,986.02132 0,109.99998"
+         id="path4186"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4190"
+         d="m -223.74853,1096.0213 0,-109.99998"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4192);stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4196);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -223.74853,1096.0213 -160,0"
+         id="path4194"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4237-2"
+         d="m -383.74853,986.02132 160,0"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4239);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         id="g4241"
+         transform="matrix(-1,0,0,1,-88.74854,92.65914)"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="1013.3622"
+           x="190"
+           height="5"
+           width="5"
+           id="rect4243"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="1013.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4247"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4249"
+           width="5"
+           height="5"
+           x="220"
+           y="1013.3622" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4251"
+           width="5"
+           height="5"
+           x="190"
+           y="1023.3622" />
+        <rect
+           y="1023.3622"
+           x="200"
+           height="5"
+           width="5"
+           id="rect4253"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4255"
+           width="5"
+           height="5"
+           x="210"
+           y="1023.3622" />
+        <rect
+           y="1033.3622"
+           x="190"
+           height="5"
+           width="5"
+           id="rect4259"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4261"
+           width="5"
+           height="5"
+           x="200"
+           y="1033.3622" />
+        <rect
+           y="1033.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4263"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4265"
+           width="5"
+           height="5"
+           x="220"
+           y="1033.3622" />
+        <rect
+           y="1043.3622"
+           x="200"
+           height="5"
+           width="5"
+           id="rect4269"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="1043.3622"
+           x="220"
+           height="5"
+           width="5"
+           id="rect4273"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         transform="matrix(-1,0,0,-1,-38.74854,2154.3836)"
+         id="g4275">
+        <rect
+           y="1013.3622"
+           x="200"
+           height="5"
+           width="5"
+           id="rect4279"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4281"
+           width="5"
+           height="5"
+           x="210"
+           y="1013.3622" />
+        <rect
+           y="1013.3622"
+           x="220"
+           height="5"
+           width="5"
+           id="rect4283"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="1023.3622"
+           x="190"
+           height="5"
+           width="5"
+           id="rect4285"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4287"
+           width="5"
+           height="5"
+           x="200"
+           y="1023.3622" />
+        <rect
+           y="1023.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4289"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4293"
+           width="5"
+           height="5"
+           x="190"
+           y="1033.3622" />
+        <rect
+           y="1033.3622"
+           x="200"
+           height="5"
+           width="5"
+           id="rect4295"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4297"
+           width="5"
+           height="5"
+           x="210"
+           y="1033.3622" />
+        <rect
+           y="1033.3622"
+           x="220"
+           height="5"
+           width="5"
+           id="rect4299"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           y="1043.3622"
+           x="190"
+           height="5"
+           width="5"
+           id="rect4301"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4303"
+           width="5"
+           height="5"
+           x="200"
+           y="1043.3622" />
+        <rect
+           y="1043.3622"
+           x="210"
+           height="5"
+           width="5"
+           id="rect4305"
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4307"
+           width="5"
+           height="5"
+           x="220"
+           y="1043.3622" />
+      </g>
+    </g>
+    <g
+       id="g4479"
+       transform="translate(170,0)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4377"
+         d="m 280,442 -3,0 -4,-4 0,-5 -3,-3"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4381"
+         d="m 280,439 -2,0 -2,-2 0,-5 -6,-6"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccc"
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4383"
+         d="m 280,427 -5,0 -5,-5"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4385"
+         d="m 280,411 -4,0 -2,2 -4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4387"
+         d="m 280,408 -5,0 -1,1 -4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4389"
+         d="m 280,405 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4391"
+         d="m 280,402 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4393"
+         d="m 280,399 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4395"
+         d="m 280,396 -3,0 -5,-5 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4397"
+         d="m 280,393 -2,0 -5,-5 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4399"
+         d="m 280,390 -1,0 -5,-5 -4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4401"
+         d="m 280,357 -1,0 -1,-1 0,-7 -1,-1 0,-9 1,-1 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4403"
+         d="m 280,360 -2,0 -3,-3 0,-7 -1,-1 0,-11 1,-1 0,-17 -5,-5"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4405"
+         d="m 270,337 1,0 1,-1 0,-15 -2,-2"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4407"
+         d="m 280,363 -3,0 -1,1 0,3 2,2 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4409"
+         d="m 270,313 2,-2 0,-8 -1,-1 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4411"
+         d="m 270,260 4,0 2,2 4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4413"
+         d="m 280,265 -5,0 -2,-2 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4415"
+         d="m 270,257 5,0 2,2 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4417"
+         d="m 280,256 -2,0 -2,-2 -6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4419"
+         d="m 270,251 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4421"
+         d="m 280,248 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4423"
+         d="m 270,245 5,0 1,-1 4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4425"
+         d="m 280,241 -3,0 -1,-1 -2,0 -1,1 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4427"
+         d="m 270,238 2,0 1,-1 4,0 1,1 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4439"
+         d="m 280,212 -4,0 -3,-3 0,-5 3,-3 4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4441"
+         d="m 280,209 -3,0 -1,-1 0,-3 1,-1 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4443"
+         d="m 280,198 -6,0 -1,1 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4445"
+         d="m 270,196 2,0 1,-1 7,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4447"
+         d="m 280,191 -2,0 -1,1 -5,0 -1,-1 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4449"
+         d="m 270,188 2,0 1,1 3,0 1,-1 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4451"
+         d="m 280,185 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4453"
+         d="m 270,182 3,0 2,-2 5,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4455"
+         d="m 270,179 2,0 2,-2 6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4457"
+         d="m 280,174 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4459"
+         d="m 270,170 4,0 1,1 5,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4461"
+         d="m 280,168 -4,0 -1,-1 -5,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4463"
+         d="m 280,165 -3,0 -1,-1 -6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4465"
+         d="m 270,161 3,0 2,-2 0,-3 2,-2 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4467"
+         d="m 280,151 -4,0 -4,4 0,2 -1,1 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4469"
+         d="m 270,130 1,0 1,-1 0,-8 -1,-1 -1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4471"
+         d="m 270,133 2,0 3,-3 0,-10 -3,-3 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4473"
+         d="m 270,108 2,-2 0,-14 1,-1 0,-7 -1,-1 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4475"
+         d="m 270,80 3,0 3,3 0,9 -1,1 0,14 -5,5"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,552.36218)"
+         inkscape:connector-curvature="0"
+         id="path4477"
+         d="m 280,109 -2,0 -2,2 0,4 1,1 0,2 1,1 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4237"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(260,10)">
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4219"
+         d="m 453,340 0,3"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4221"
+         d="m 456,340 0,13"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4223"
+         d="m 459,340 0,40"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4225"
+         d="m 462,340 0,29"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4227"
+         d="m 465,340 0,55"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4229"
+         d="m 468,340 0,13"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4231"
+         d="m 471,340 0,24"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4233"
+         d="m 474,340 0,7"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4235"
+         d="m 477,340 0,3"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4173"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(260,-72)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4131"
+         d="m 440,325 2,0 2,-2 6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4133"
+         d="m 440,322 1,0 2,-2 7,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4135"
+         d="m 450,317 -10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4137"
+         d="m 450,314 -5,0 -1,-1 -4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4139"
+         d="m 440,310 5,0 1,1 4,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4141"
+         d="m 450,308 -3,0 -1,-1 -6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4143"
+         d="m 440,304 7,0 1,1 2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4145"
+         d="m 440,285 2,0 1,1 5,0 1,-1 1,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4147"
+         d="m 450,282 -2,0 -1,1 -3,0 -1,-1 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4149"
+         d="m 440,279 4,0 1,1 1,0 1,-1 3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4151"
+         d="m 440,276 10,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="m 450,273 -6,0 -4,-4"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4155"
+         d="m 450,270 -5,0 -5,-5"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4157"
+         d="m 450,267 -4,0 -6,-6"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4161"
+         d="m 450,264 -3,0 -3,-3 0,-15 -2,-2 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(0,532.36218)"
+         inkscape:connector-curvature="0"
+         id="path4163"
+         d="m 450,261 -2,0 -1,-1 0,-15 -4,-4 -3,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4165"
+         d="m 450,694.36218 -5,0 -2,2 0,19 -3,3"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4167"
+         d="m 450,697.36218 -4,0 0,19 -6,6"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4169"
+         d="m 450,721.36218 -5,0 -5,5"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4171"
+         d="m 450,724.36218 -4,0 -6,6"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4121"
+       transform="translate(247,112)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4238"
+         d="m 453,825.36218 1,0 1,1 0,17 5,5 0,8 -1,1 -6,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4240"
+         d="m 453,860.36218 7,0 3,-3 0,-10 -5,-5 0,-17 -3,-3 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4242"
+         d="m 453,819.36218 3,0 5,5 0,17 5,5 0,12 -5,5 -8,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4244"
+         d="m 453,816.36218 4,0 7,7 0,17 5,5 0,14 -7,7 -9,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4246"
+         d="m 453,795.36218 3,-3 0,-15 -1,-1 -2,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4248"
+         d="m 453,773.36218 3,0 3,3 0,17 -6,6"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4250"
+         d="m 453,875.36218 9,0 1,1 0,3 -2,2 -8,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4252"
+         d="m 453,872.36218 10,0 3,3 0,5 -4,4 -9,0"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1022.3622 -20,0 -6,6 -14,0 -5,-6 0,-20"
+       id="path4102"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1025.3622 -19,0 -6,6 -16,0 -7,-8 0,-21"
+       id="path4104"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1028.3622 -18,0 -6,6 -18,0 -9,-10 0,-22"
+       id="path4106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1031.3622 -17,0 -6,6 -20,0 -15,-16 0,-10 -4,-4 -6,0 -2,-2 0,-3"
+       id="path4108"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1034.3622 -16,0 -6,6 -22,0 -17,-18 0,-10 -2,-2 -6,0 -4,-4 0,-4"
+       id="path4110"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 349,1002.3622 0,2 -3,3 -16,0 -5,5 -10,0 -2,-2 0,-8"
+       id="path4114"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 352,1002.3622 0,3 -5,5 -16,0 -5,5 -12,0 -4,-4 0,-9"
+       id="path4116"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 316,1002.3622 0,2 2,2 3,0 2,-2 0,-2"
+       id="path4118"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 590,1002.3622 0,3 3,3 16,0 1,1 0,3"
+       id="path4092"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 593,1002.3622 0,2 1,1 16,0 3,3 0,4"
+       id="path4094"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 616,1012.3622 0,-10"
+       id="path4096"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 619,1012.3622 0,-10"
+       id="path4098"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 622,1012.3622 0,-10"
+       id="path4100"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 680,1002.3622 0,2 3,3 0,5"
+       id="path4070"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 677,1002.3622 0,3 3,3 0,4"
+       id="path4072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 674,1002.3622 0,4 3,3 0,3"
+       id="path4074"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 671,1002.3622 0,10"
+       id="path4076"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 668,1002.3622 0,10"
+       id="path4078"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 665,1002.3622 0,4 -4,4 0,2"
+       id="path4080"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 662,1002.3622 0,3 -4,4 0,3"
+       id="path4082"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 659,1002.3622 0,2 -4,4 0,4"
+       id="path4084"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 656,1002.3622 0,1 -4,4 0,5"
+       id="path4086"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 649,1012.3622 0,-7 -1,-1 0,-2"
+       id="path4088"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 646,1012.3622 0,-6 -1,-1 0,-3"
+       id="path4090"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 657,582.36218 0,-2"
+       id="path4038"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 660,582.36218 0,-1"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 663,582.36218 0,-8"
+       id="path4042"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 666,582.36218 0,-4"
+       id="path4044"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 669,582.36218 0,-12"
+       id="path4046"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 672,582.36218 0,-2"
+       id="path4048"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 675,582.36218 0,-6"
+       id="path4050"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 678,582.36218 0,-3"
+       id="path4052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 681,582.36218 0,-18"
+       id="path4054"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 684,582.36218 0,-9"
+       id="path4056"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 687,582.36218 0,-25"
+       id="path4058"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 690,582.36218 0,-12"
+       id="path4060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 693,582.36218 0,-4"
+       id="path4062"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 696,582.36218 0,-8"
+       id="path4064"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 699,582.36218 0,-2"
+       id="path4066"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 620,582.36218 0,-2"
+       id="path4022"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 623,582.36218 0,-1"
+       id="path4024"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 626,582.36218 0,-3"
+       id="path4026"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 629,582.36218 0,-2"
+       id="path4028"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 632,582.36218 0,-1"
+       id="path4030"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 635,582.36218 0,-4"
+       id="path4032"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 638,582.36218 0,-2"
+       id="path4034"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 641,582.36218 0,-1"
+       id="path4036"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 545,582.36218 0,-2"
+       id="path3982"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 548,582.36218 0,-1"
+       id="path3984"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 551,582.36218 0,-3"
+       id="path3986"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 554,582.36218 0,-2"
+       id="path3988"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 557,582.36218 0,-5"
+       id="path3990"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 560,582.36218 0,-11"
+       id="path3992"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 563,582.36218 0,-3"
+       id="path3994"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 566,582.36218 0,-4"
+       id="path3996"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 569,582.36218 0,-20"
+       id="path3998"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 572,582.36218 0,-29"
+       id="path4000"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 575,582.36218 0,-11"
+       id="path4002"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 578,582.36218 0,-6"
+       id="path4004"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 581,582.36218 0,-16"
+       id="path4006"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 584,582.36218 0,-4"
+       id="path4008"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 587,582.36218 0,-7"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 590,582.36218 0,-2"
+       id="path4012"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 593,582.36218 0,-1"
+       id="path4014"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 596,582.36218 0,-4"
+       id="path4016"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 599,582.36218 0,-2"
+       id="path4018"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 602,582.36218 0,-1"
+       id="path4020"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 208,582.36218 0,-2 -2,-2 -25,0 -4,4 0,12 7,7 0,14 4,4 2,0"
+       id="path3966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 211,582.36218 0,-3 -4,-4 -27,0 -6,6 0,14 7,7 0,14 6,6 3,0"
+       id="path3968"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 214,582.36218 0,-4 -6,-6 -29,0 -8,8 0,16 7,7 0,14 8,8 4,0"
+       id="path3970"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 190,584.36218 -7,0 -3,3 0,6 6,6 4,0"
+       id="path3972"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 190,587.36218 -6,0 -1,1 0,4 4,4 3,0"
+       id="path3974"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-opacity:0.1254902"
+       d="m 249,582.36218 0,-24"
+       id="path3150"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 252,582.36218 0,-10"
+       id="path3920"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 255,582.36218 0,-16"
+       id="path3922"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 258,582.36218 0,-4"
+       id="path3924"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 261,582.36218 0,-6"
+       id="path3926"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 264,582.36218 0,-2"
+       id="path3928"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 267,582.36218 0,-3"
+       id="path3930"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 270,582.36218 0,-1"
+       id="path3932"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 246,582.36218 0,-3"
+       id="path3934"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 286,582.36218 0,-14"
+       id="path3936"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 283,582.36218 0,-8"
+       id="path3938"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 280,582.36218 0,-4"
+       id="path3940"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 289,582.36218 0,-4"
+       id="path3942"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 292,582.36218 0,-22"
+       id="path3944"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 295,582.36218 0,-8"
+       id="path3946"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 298,582.36218 0,-14"
+       id="path3948"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 301,582.36218 0,-3"
+       id="path3952"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 304,582.36218 0,-1"
+       id="path3954"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 307,582.36218 0,-2"
+       id="path3956"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 310,582.36218 0,-3"
+       id="path3958"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 313,582.36218 0,-1"
+       id="path3960"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 316,582.36218 0,-2"
+       id="path3962"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="1012.3622"
+       x="580"
+       height="30.000004"
+       width="120"
+       id="rect5070"
+       style="fill:#202020;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5104"
+       d="m 580,1012.3622 120,0"
+       style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient5158);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient5155);stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 700,1042.3622 0,-30"
+       id="path5106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5108"
+       d="m 700,1042.3622 -120,0"
+       style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient5152);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient5149);stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 580,1012.3622 0,30"
+       id="path5110"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="198"
+       y="-564.46667"
+       id="text3976"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3978"
+         x="198"
+         y="-564.46667"
+         style="font-size:6px;line-height:1.25;fill:#ffffff;fill-opacity:0.12549">quaelibet</tspan><tspan
+         sodipodi:role="line"
+         x="198"
+         y="-544.68768"
+         style="font-size:6px;line-height:1.25;fill:#ffffff;fill-opacity:0.12549"
+         id="tspan3980">quodlibet</tspan></text>
+    <g
+       id="g4178"
+       transform="translate(78,-4)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="1013.3622"
+         x="190"
+         height="5"
+         width="5"
+         id="rect4120"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4122"
+         width="5"
+         height="5"
+         x="200"
+         y="1013.3622" />
+      <rect
+         y="1013.3622"
+         x="210"
+         height="5"
+         width="5"
+         id="rect4124"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4126"
+         width="5"
+         height="5"
+         x="220"
+         y="1013.3622" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4128"
+         width="5"
+         height="5"
+         x="190"
+         y="1023.3622" />
+      <rect
+         y="1023.3622"
+         x="200"
+         height="5"
+         width="5"
+         id="rect4130"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4132"
+         width="5"
+         height="5"
+         x="210"
+         y="1023.3622" />
+      <rect
+         y="1023.3622"
+         x="220"
+         height="5"
+         width="5"
+         id="rect4134"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="1033.3622"
+         x="190"
+         height="5"
+         width="5"
+         id="rect4136"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4138"
+         width="5"
+         height="5"
+         x="200"
+         y="1033.3622" />
+      <rect
+         y="1033.3622"
+         x="210"
+         height="5"
+         width="5"
+         id="rect4140"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4142"
+         width="5"
+         height="5"
+         x="220"
+         y="1033.3622" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4144"
+         width="5"
+         height="5"
+         x="190"
+         y="1043.3622" />
+      <rect
+         y="1043.3622"
+         x="200"
+         height="5"
+         width="5"
+         id="rect4146"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4148"
+         width="5"
+         height="5"
+         x="210"
+         y="1043.3622" />
+      <rect
+         y="1043.3622"
+         x="220"
+         height="5"
+         width="5"
+         id="rect4150"
+         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="232"
+       y="-1005.3622"
+       id="text3976-0"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="232"
+         y="-1005.3622"
+         style="font-size:6px;line-height:1.25;fill:#ffffff;fill-opacity:0.12549"
+         id="tspan3980-1">nutu signisque loquntur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="-837.38153"
+       y="-702"
+       id="text4260"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan4264"
+         sodipodi:role="line"
+         x="-837.38153"
+         y="-702"
+         style="font-size:6px;line-height:1.25;fill:#ffffff;fill-opacity:0.12549">normative belligerent</tspan></text>
+    <text
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="text4268"
+       y="-742"
+       x="-644.36218"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:6px;line-height:1.25;fill:#ffffff;fill-opacity:0.12549"
+         y="-742"
+         x="-644.36218"
+         sodipodi:role="line"
+         id="tspan4270">adverse condition matrix</tspan></text>
+    <g
+       id="g4103"
+       transform="translate(230,-30)"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="632.36218"
+         x="480"
+         height="280"
+         width="30"
+         id="rect4065"
+         style="fill:#202020;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4079"
+         d="m 510,912.36215 0,-280"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4081);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4083"
+         d="m 510,912.36218 -30,0"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4085);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4089);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 480,632.36218 30,0"
+         id="path4087"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4093);stroke-width:0.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 480,842.36215 0,-129.99997"
+         id="path4091"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4095"
+         d="m 480,842.36217 0,70.00003"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4097);stroke-width:0.99999982;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4099"
+         d="m 480,632.36219 0,80"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4101);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,692.36218 5,0 0,5 -5,0 z"
+       id="path4195"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,707.36218 5,0 0,5 -5,0 z"
+       id="path4197"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,722.36218 5,0 0,5 -5,0 z"
+       id="path4199"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,732.36218 5,0 0,5 -5,0 z"
+       id="path4201"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,742.36218 5,0 0,10 -5,0 z"
+       id="path4203"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,757.36218 5,0 0,5 -5,0 z"
+       id="path4205"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,767.36218 5,0 0,10 -5,0 z"
+       id="path4207"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,782.36218 5,0 0,10 -5,0 z"
+       id="path4209"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,797.36218 5,0 0,5 -5,0 z"
+       id="path4211"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,812.36218 5,0 0,5 -5,0 z"
+       id="path4213"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,832.36218 5,0 0,5 -5,0 z"
+       id="path4215"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 745,857.36218 5,0 0,5 -5,0 z"
+       id="path4217"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4287"
+       transform="translate(460,-2.6171874e-6)">
+      <rect
+         y="582.36218"
+         x="-270"
+         height="420"
+         width="250"
+         id="rect4183"
+         style="fill:#202020;fill-opacity:1;stroke:none"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4185"
+         d="m -270,582.36218 249.99999,0"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4298);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4300);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -20,712.36216 0,-129.99998"
+         id="path4187"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4189"
+         d="m -20,712.36213 0,145"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4302);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4191"
+         d="m -20,1002.3623 0,-145.00008"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4304);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4306);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -20,1002.3623 -250,0"
+         id="path4193"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4308);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -270,887.36219 0,115.00011"
+         id="path4237"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4310);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -270,887.36218 0,-194.99999"
+         id="path4239"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4241"
+         d="m -270,582.36218 0,110.00004"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4312);stroke-width:0.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       y="1009.3622"
+       x="390"
+       height="5"
+       width="5"
+       id="rect4140-5"
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.25098039;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4142-6"
+       width="5"
+       height="5"
+       x="400"
+       y="1009.3622" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4148-6"
+       width="5"
+       height="5"
+       x="390"
+       y="1019.3622" />
+    <rect
+       y="1019.3622"
+       x="400"
+       height="5"
+       width="5"
+       id="rect4150-4"
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:0.1254902;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       transform="translate(720,0)"
+       id="g4341">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#202020;fill-opacity:1;stroke:none"
+         id="rect4343"
+         width="250"
+         height="420"
+         x="-270"
+         y="582.36218" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4361);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -270,582.36218 249.99999,0"
+         id="path4345"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4347"
+         d="m -20,712.36216 0,-129.99998"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4363);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4365);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -20,712.36213 0,145"
+         id="path4349"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4367);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -20,1002.3623 0,-145.00008"
+         id="path4351"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4353"
+         d="m -20,1002.3623 -250,0"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4369);stroke-width:0.99999994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4355"
+         d="m -270,887.36219 0,115.00011"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4371);stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         inkscape:connector-curvature="0"
+         id="path4357"
+         d="m -270,887.36218 0,-194.99999"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4373);stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michael/code/endless-sky/assets/ui elements/g4237.png"
+         style="fill:#e0e0e0;fill-opacity:1;stroke:url(#linearGradient4375);stroke-width:0.99999988;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -270,582.36218 0,110.00004"
+         id="path4359"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+background {a -1}
+
+startshape fusion
+
+rule fusion {
+	36 * {r 10} ring {x 2 a -.99 hue -60 b 1 sat 1}
+	FLARE {a -.9 s 10 b 1 sat 0 z 2}
+	36 * {r 10} ring {x 1 s .5 a -.99 hue 240 b 1 sat .5 z 1}
+}
+
+rule ring 3 {
+	ring {hue -2}
+}
+rule ring 5 {
+	ring {b -.03}
+}
+rule ring {
+	2 * {r 180} out {}
+}
+rule out {
+	TRIANGLE {s 4}
+}
+rule out 2 {
+	TRIANGLE {s 4}
+	out {x .1 r 1 hue -1 a -.1 s .9}
+}
+rule out 2 {
+	TRIANGLE {s 4}
+	out {x .5 s .9}
+	out {r -5 s .9}
+}
+rule out {
+	out {sat -.1}
+}
+
+rule FLARE 999 {
+	DIAMOND {}
+	FLARE {s .99 r 222.49224}
+}
+rule FLARE 99 {
+	FLARE {r 5}
+}
+rule FLARE {
+}
+
+rule DIAMOND {
+	TRIANGLE {y 0.00288675135 s 1 .01}
+	TRIANGLE {y -0.00288675135 s 1 .01 r 180}	
+}
