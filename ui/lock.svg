@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="-22.125"
-     inkscape:cy="-2.375"
+     inkscape:cx="-38.625"
+     inkscape:cy="-42.625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,19 +100,19 @@
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:166.67%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff2401;fill-opacity:1;stroke:#ff2401;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 36.776156,1040.2782 c -2e-6,0.664 -0.024,1.272 -0.072,1.824 -0.048,0.552 -0.108002,1.108 -0.18,1.668 h -1.032 c -0.08,-0.56 -0.144001,-1.116 -0.192,-1.668 -0.048,-0.56 -0.072,-1.168 -0.072,-1.824 v -2.232 h 1.548 v 2.232 m 0.18,5.292 c -3e-6,0.28 -0.092,0.508 -0.276,0.684 -0.184002,0.176 -0.412002,0.264 -0.684,0.264 -0.264001,0 -0.492001,-0.088 -0.684,-0.264 -0.184001,-0.176 -0.276001,-0.404 -0.276,-0.684 -10e-7,-0.28 0.092,-0.508 0.276,-0.684 0.191999,-0.184 0.419999,-0.276 0.684,-0.276 0.271998,0 0.499998,0.092 0.684,0.276 0.183998,0.176 0.275997,0.404 0.276,0.684" />
     <path
-       style="fill:none;stroke:#ffd901;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;stroke:#ff9501;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 8.5,1039.3622 v -4 l 3,-2 h 1 l 3,2 v 4"
        id="path1"
        sodipodi:nodetypes="cccccc" />
     <ellipse
-       style="fill:#ffd901;fill-opacity:1;stroke:none;stroke-width:2.25003;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#ff9901;fill-opacity:1;stroke:none;stroke-width:2.25003;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        id="path2"
        cx="12"
        cy="1043.8622"
        rx="1.5000261"
        ry="1.5000174" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ffd901;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff9501;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 6.5,1043.3622 2,-4 h 7 l 2,4 v 1 l -2,4 h -7 l -2,-4 z"
        id="path3"
        sodipodi:nodetypes="ccccccccc" />
